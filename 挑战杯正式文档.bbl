@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{boyd2003nonlinear}
+Robert~W Boyd.
+\newblock Nonlinear optics.
+\newblock In {\em Handbook of Laser Technology and Applications (Three-Volume
+  Set)}, pages 161--183. Taylor \& Francis, 2003.
+
+\bibitem{heinz1991second}
+Tony~F Heinz.
+\newblock Second-order nonlinear optical effects at surfaces and interfaces.
+\newblock {\em Nonlinear surface electromagnetic phenomena}, 29, 1991.
+
+\bibitem{haus1991coupled}
+Hermann~A Haus and Weiping Huang.
+\newblock Coupled-mode theory.
+\newblock {\em Proceedings of the IEEE}, 79(10):1505--1518, 1991.
+
+\bibitem{kozyreff2008whispering}
+Gregory Kozyreff, JL~Dominguez Juarez, and Jordi Martorell.
+\newblock Whispering-gallery-mode phase matching for surface second-order
+  nonlinear optical processes in spherical microresonators.
+\newblock {\em Physical Review A}, 77(4):043817, 2008.
+
+\bibitem{bloembergen1965nonlinear}
+Nicolaas Bloembergen.
+\newblock Nonlinear optics.
+\newblock {\em Benjamin, New York,, 1965}, 1, 1965.
+
+\bibitem{shen1984principles}
+Yuen-Ron Shen.
+\newblock The principles of nonlinear optics.
+\newblock {\em New York, Wiley-Interscience, 1984, 575 p.}, 1, 1984.
+
+\bibitem{sipe1987new}
+John~E Sipe.
+\newblock New green-function formalism for surface optics.
+\newblock {\em JOSA B}, 4(4):481--489, 1987.
+
+\bibitem{terhune1987second}
+Robert~W Terhune and Doreen~A Weinberger.
+\newblock Second-harmonic generation in fibers.
+\newblock {\em JOSA B}, 4(5):661--674, 1987.
+
+\bibitem{rodriguez2008calibration}
+Francisco~J Rodriguez, Fu~Xiang Wang, and Martti Kauranen.
+\newblock Calibration of the second-order nonlinear optical susceptibility of
+  surface and bulk of glass.
+\newblock {\em Optics express}, 16(12):8704--8710, 2008.
+
+\bibitem{LiBeiBei2014}
+Bei-Bei Li.
+\newblock {\em Raman lasing in whispering gallery mode microresonators and its
+  application in biological sensing}.
+\newblock PhD thesis, Peking University, 2014.
+
+\bibitem{nikogosyan2003properties}
+David~N Nikogosyan.
+\newblock Properties of optical and laser-related materials: a handbook.
+\newblock {\em Properties of Optical and Laser-Related Materials: A Handbook,
+  by David N. Nikogosyan, pp. 614. ISBN 0-471-97384-X. Wiley-VCH, May 2003.},
+  page 614, 2003.
+
+\bibitem{carmon2004dynamical}
+Tal Carmon, Lan Yang, and Kerry~J Vahala.
+\newblock Dynamical thermal behavior and thermal self-stability of
+  microcavities.
+\newblock {\em Optics Express}, 12(20):4742--4750, 2004.
+
+\bibitem{ilchenko1992thermal}
+VS~Ilchenko and ML~Gorodetskii.
+\newblock Thermal nonlinear effects in optical whispering gallery
+  microresonators.
+\newblock {\em Laser Phys}, 2(6):1004--1009, 1992.
+
+\bibitem{fomin2005nonstationary}
+Alexey~E Fomin, Michael~L Gorodetsky, Ivan~S Grudinin, and Vladimir~S Ilchenko.
+\newblock Nonstationary nonlinear effects in optical microspheres.
+\newblock {\em JOSA B}, 22(2):459--465, 2005.
+
+\bibitem{rokhsari2004loss}
+Hossein Rokhsari, Sean~M Spillane, and Kerry~J Vahala.
+\newblock Loss characterization in microcavities using the thermal bistability
+  effect.
+\newblock {\em Applied physics letters}, 85(15):3029--3031, 2004.
+
+\bibitem{carmon2007visible}
+Tal Carmon and Kerry~J Vahala.
+\newblock Visible continuous emission from a silica microphotonic device by
+  third-harmonic generation.
+\newblock {\em Nature Physics}, 3(6):430--435, 2007.
+
+\end{thebibliography}
