@@ -1,15 +1,217 @@
 \begin{thebibliography}{10}
 
+\bibitem{maiman1960stimulated}
+Theodore~H Maiman.
+\newblock Stimulated optical radiation in ruby.
+\newblock 1960.
+
+\bibitem{franken1961generation}
+eg~PA Franken, Alan~E Hill, CW~el Peters, and G~Weinreich.
+\newblock Generation of optical harmonics.
+\newblock {\em Physical Review Letters}, 7(4):118, 1961.
+
 \bibitem{boyd2003nonlinear}
 Robert~W Boyd.
 \newblock Nonlinear optics.
 \newblock In {\em Handbook of Laser Technology and Applications (Three-Volume
   Set)}, pages 161--183. Taylor \& Francis, 2003.
 
+\bibitem{scully1999quantum}
+Marlan~O Scully and M~Suhail Zubairy.
+\newblock Quantum optics, 1999.
+
+\bibitem{vahala2003optical}
+Kerry~J Vahala.
+\newblock Optical microcavities.
+\newblock {\em Nature}, 424(6950):839--846, 2003.
+
+\bibitem{spillane2002ultralow}
+SM~Spillane, TJ~Kippenberg, and KJ~Vahala.
+\newblock Ultralow-threshold raman laser using a spherical dielectric
+  microcavity.
+\newblock {\em Nature}, 415(6872):621--623, 2002.
+
+\bibitem{cai2000fiber}
+Ming Cai, O~Painter, KJ~Vahala, and PC~Sercel.
+\newblock Fiber-coupled microsphere laser.
+\newblock {\em Optics letters}, 25(19):1430--1432, 2000.
+
+\bibitem{kippenberg2004ultralow}
+TJ~Kippenberg, SM~Spillane, DK~Armani, and KJ~Vahala.
+\newblock Ultralow-threshold microcavity raman laser on a microelectronic chip.
+\newblock {\em Optics letters}, 29(11):1224--1226, 2004.
+
+\bibitem{li2012characterization}
+Jiang Li, Hansuek Lee, Tong Chen, and Kerry~J Vahala.
+\newblock Characterization of a high coherence, brillouin microcavity laser on
+  silicon.
+\newblock {\em Optics express}, 20(18):20170--20180, 2012.
+
+\bibitem{li2013microwave}
+Jiang Li, Hansuek Lee, and Kerry~J Vahala.
+\newblock Microwave synthesizer using an on-chip brillouin oscillator.
+\newblock {\em Nature communications}, 4, 2013.
+
+\bibitem{li2014low}
+Jiang Li, Hansuek Lee, and Kerry~J Vahala.
+\newblock Low-noise brillouin laser on a chip at 1064 nm.
+\newblock {\em Optics letters}, 39(2):287--290, 2014.
+
+\bibitem{loh2015dual}
+William Loh, Adam~AS Green, Fred~N Baynes, Daniel~C Cole, Franklyn~J Quinlan,
+  Hansuek Lee, Kerry~J Vahala, Scott~B Papp, and Scott~A Diddams.
+\newblock Dual-microcavity narrow-linewidth brillouin laser.
+\newblock {\em Optica}, 2(3):225--232, 2015.
+
+\bibitem{carmon2007visible}
+Tal Carmon and Kerry~J Vahala.
+\newblock Visible continuous emission from a silica microphotonic device by
+  third-harmonic generation.
+\newblock {\em Nature Physics}, 3(6):430--435, 2007.
+
+\bibitem{farnesi2014optical}
+D~Farnesi, A~Barucci, GC~Righini, S~Berneschi, S~Soria, and G~Nunzi Conti.
+\newblock Optical frequency conversion in silica-whispering-gallery-mode
+  microspherical resonators.
+\newblock {\em Physical review letters}, 112(9):093901, 2014.
+
+\bibitem{kippenberg2004kerr}
+TJ~Kippenberg, SM~Spillane, and KJ~Vahala.
+\newblock Kerr-nonlinearity optical parametric oscillation in an ultrahigh-q
+  toroid microcavity.
+\newblock {\em Physical review letters}, 93(8):083904, 2004.
+
+\bibitem{ozdemir2014highly}
+{\c{S}}ahin~Kaya {\"O}zdemir, Jiangang Zhu, Xu~Yang, Bo~Peng, Huzeyfe Yilmaz,
+  Lina He, Faraz Monifi, Steven~He Huang, Gui~Lu Long, and Lan Yang.
+\newblock Highly sensitive detection of nanoparticles with a self-referenced
+  and self-heterodyned whispering-gallery raman microlaser.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(37):E3836--E3844, 2014.
+
+\bibitem{li2015microresonator}
+Jiang Li, Myoung-Gyun Suh, and Kerry Vahala.
+\newblock Microresonator brillouin gyroscope.
+\newblock In {\em Nonlinear Optics}, pages NTh3A--2. Optical Society of
+  America, 2015.
+
+\bibitem{xu2008second}
+Yong Xu, Ming Han, Anbo Wang, Zhiwen Liu, and James~R Heflin.
+\newblock Second order parametric processes in nonlinear silica microspheres.
+\newblock {\em Physical review letters}, 100(16):163905, 2008.
+
+\bibitem{ilchenko2004nonlinear}
+Vladimir~S Ilchenko, Anatoliy~A Savchenkov, Andrey~B Matsko, and Lute Maleki.
+\newblock Nonlinear optics and crystalline whispering gallery mode cavities.
+\newblock {\em Physical review letters}, 92(4):043903, 2004.
+
+\bibitem{furst2010naturally}
+JU~F{\"u}rst, DV~Strekalov, Dominique Elser, Mikael Lassen, Ulrik~Lund
+  Andersen, Christoph Marquardt, and Gerd Leuchs.
+\newblock Naturally phase-matched second-harmonic generation in a
+  whispering-gallery-mode resonator.
+\newblock {\em Physical review letters}, 104(15):153901, 2010.
+
+\bibitem{lin2015second}
+JinTian Lin, YingXin Xu, ZhiWei Fang, Min Wang, NengWen Wang, LingLing Qiao,
+  Wei Fang, and Ya~Cheng.
+\newblock Second harmonic generation in a high-q lithium niobate microresonator
+  fabricated by femtosecond laser micromachining.
+\newblock {\em Science China Physics, Mechanics \& Astronomy}, 58(11):114209,
+  2015.
+
+\bibitem{kuo2014second}
+Paulina~S Kuo, Jorge Bravo-Abad, and Glenn~S Solomon.
+\newblock Second-harmonic generation using-quasi-phasematching in a gaas
+  whispering-gallery-mode microcavity.
+\newblock {\em Nature communications}, 5, 2014.
+
+\bibitem{armani2003ultra}
+DK~Armani, TJ~Kippenberg, SM~Spillane, and KJ~Vahala.
+\newblock Ultra-high-q toroid microcavity on a chip.
+\newblock {\em Nature}, 421(6926):925--928, 2003.
+
+\bibitem{kippenberg2003fabrication}
+TJ~Kippenberg, SM~Spillane, DK~Armani, and KJ~Vahala.
+\newblock Fabrication and coupling to planar high-q silica disk microcavities.
+\newblock {\em Applied Physics Letters}, 83(4):797--799, 2003.
+
+\bibitem{levy2011harmonic}
+Jacob~S Levy, Mark~A Foster, Alexander~L Gaeta, and Michal Lipson.
+\newblock Harmonic generation in silicon nitride ring resonators.
+\newblock {\em Optics express}, 19(12):11415--11421, 2011.
+
+\bibitem{dominguez2011whispering}
+Jorge~Luis Dominguez-Juarez, Gregory Kozyreff, and Jordi Martorell.
+\newblock Whispering gallery microresonators for second harmonic light
+  generation from a low number of small molecules.
+\newblock {\em Nature communications}, 2:254, 2011.
+
 \bibitem{heinz1991second}
 Tony~F Heinz.
 \newblock Second-order nonlinear optical effects at surfaces and interfaces.
 \newblock {\em Nonlinear surface electromagnetic phenomena}, 29, 1991.
+
+\bibitem{shen1989surface}
+YR~Shen.
+\newblock Surface properties probed by second-harmonic and sum-frequency
+  generation.
+\newblock {\em Nature}, 337:519--525, 1989.
+
+\bibitem{shank1983femtosecond}
+CV~Shank, R~Yen, and C~Hirlimann.
+\newblock Femtosecond-time-resolved surface structural dynamics of optically
+  excited silicon.
+\newblock {\em Physical Review Letters}, 51(10):900, 1983.
+
+\bibitem{heinz1985study}
+Tony~F Heinz, Michael~MT Loy, and WA~Thompson.
+\newblock Study of si (111) surfaces by optical second-harmonic generation:
+  reconstruction and surface phase transformation.
+\newblock {\em Physical review letters}, 54(1):63, 1985.
+
+\bibitem{tom1986investigation}
+HWK Tom, XD~Zhu, YR~Shen, and GA~Somorjai.
+\newblock Investigation of the si (111)-(7$\times$ 7) surface by
+  second-harmonic generation: Oxidation and the effects of surface phosphorus.
+\newblock {\em Surface science}, 167(1):167--176, 1986.
+
+\bibitem{martorell1997scattering}
+Jordi Martorell, Ramon Vilaseca, and Ram{\'o}n Corbal{\'a}n.
+\newblock Scattering of second-harmonic light from small spherical particles
+  ordered in a crystalline lattice.
+\newblock {\em Physical Review A}, 55(6):4520, 1997.
+
+\bibitem{maymo2006visible}
+Marc Maym{\'o}, Jordi Martorell, Albert Molinos-G{\'o}mez, and Francisco
+  L{\'o}pez-Calahorra.
+\newblock Visible second-harmonic light generated from a self-organized
+  centrosymmetric lattice of nanospheres.
+\newblock {\em Optics express}, 14(7):2864--2872, 2006.
+
+\bibitem{shan2006experimental}
+J~Shan, Jerry~I Dadap, Igor Stiopkin, Georg~A Reider, and TF~Heinz.
+\newblock Experimental study of optical second-harmonic scattering from
+  spherical nanoparticles.
+\newblock {\em Physical Review A}, 73(2):023819, 2006.
+
+\bibitem{asano2016visible}
+Motoki Asano, Shoichi Komori, Rikizo Ikuta, Nobuyuki Imoto,
+  {\c{S}}K~{\"O}zdemir, and Takashi Yamamoto.
+\newblock Visible light emission from a silica microbottle resonator by
+  second-and third-harmonic generation.
+\newblock {\em Optics Letters}, 41(24):5793--5796, 2016.
+
+\bibitem{LiBeiBei2014}
+Bei-Bei Li.
+\newblock {\em Raman lasing in whispering gallery mode microresonators and its
+  application in biological sensing}.
+\newblock PhD thesis, Peking University, 2014.
+
+\bibitem{oraevsky2002whispering}
+Anatolii~Nikolaevich Oraevsky.
+\newblock Whispering-gallery waves.
+\newblock {\em Quantum Electronics}, 32(5):377--400, 2002.
 
 \bibitem{haus1991coupled}
 Hermann~A Haus and Weiping Huang.
@@ -48,12 +250,6 @@ Francisco~J Rodriguez, Fu~Xiang Wang, and Martti Kauranen.
   surface and bulk of glass.
 \newblock {\em Optics express}, 16(12):8704--8710, 2008.
 
-\bibitem{LiBeiBei2014}
-Bei-Bei Li.
-\newblock {\em Raman lasing in whispering gallery mode microresonators and its
-  application in biological sensing}.
-\newblock PhD thesis, Peking University, 2014.
-
 \bibitem{nikogosyan2003properties}
 David~N Nikogosyan.
 \newblock Properties of optical and laser-related materials: a handbook.
@@ -83,11 +279,5 @@ Hossein Rokhsari, Sean~M Spillane, and Kerry~J Vahala.
 \newblock Loss characterization in microcavities using the thermal bistability
   effect.
 \newblock {\em Applied physics letters}, 85(15):3029--3031, 2004.
-
-\bibitem{carmon2007visible}
-Tal Carmon and Kerry~J Vahala.
-\newblock Visible continuous emission from a silica microphotonic device by
-  third-harmonic generation.
-\newblock {\em Nature Physics}, 3(6):430--435, 2007.
 
 \end{thebibliography}

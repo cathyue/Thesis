@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.4)  20 MAY 2017 23:47
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.5.21)  21 MAY 2017 23:36
 entering extended mode
 **C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/挑战杯正式文
 档.tex
@@ -1108,41 +1108,62 @@ LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <15.06> not available
 
 Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  family 'def' instead. on input line 30.
-<energyLevel.png, id=125, 361.35pt x 171.64125pt>
-File: energyLevel.png Graphic file (type png)
- <use energyLevel.png>
-Package pdftex.def Info: energyLevel.png used on input line 58.
-(pdftex.def)             Requested size: 289.0804pt x 137.31316pt.
-
 [1
 
-] [2 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/energyLevel.pn
-g>] <potential.png, id=243, 636.87938pt x 215.30438pt>
+] <Microcavity.png, id=226, 572.1375pt x 322.95656pt>
+File: Microcavity.png Graphic file (type png)
+ <use Microcavity.png>
+Package pdftex.def Info: Microcavity.png used on input line 42.
+(pdftex.def)             Requested size: 398.33858pt x 224.85577pt.
+
+[2 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Microcavity.png>
+] [3] [4] <WGM.png, id=353, 475.7775pt x 256.70906pt>
+File: WGM.png Graphic file (type png)
+ <use WGM.png>
+Package pdftex.def Info: WGM.png used on input line 69.
+(pdftex.def)             Requested size: 398.33858pt x 214.93689pt.
+
+<mode.png, id=356, 232.61906pt x 333.49594pt>
+File: mode.png Graphic file (type png)
+ <use mode.png>
+Package pdftex.def Info: mode.png used on input line 76.
+(pdftex.def)             Requested size: 232.61848pt x 333.49512pt.
+ [5 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/WGM.png>] [6 <C
+:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/mode.png>] [7]
+<energyLevel.png, id=393, 361.35pt x 171.64125pt>
+File: energyLevel.png Graphic file (type png)
+ <use energyLevel.png>
+Package pdftex.def Info: energyLevel.png used on input line 125.
+(pdftex.def)             Requested size: 289.0804pt x 137.31316pt.
+
+[8] [9 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/energyLevel.
+png>] <potential.png, id=427, 636.87938pt x 215.30438pt>
 File: potential.png Graphic file (type png)
  <use potential.png>
-Package pdftex.def Info: potential.png used on input line 93.
+Package pdftex.def Info: potential.png used on input line 160.
 (pdftex.def)             Requested size: 382.13057pt x 129.18361pt.
 
-<response.png, id=249, 255.95625pt x 374.14781pt>
+<response.png, id=431, 255.95625pt x 374.14781pt>
 File: response.png Graphic file (type png)
  <use response.png>
-Package pdftex.def Info: response.png used on input line 102.
+Package pdftex.def Info: response.png used on input line 169.
 (pdftex.def)             Requested size: 255.95561pt x 374.14688pt.
- [3 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/potential.png>]
- [4 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/response.png>]
-<surface.png, id=275, 418.56375pt x 396.7322pt>
+ [10 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/potential.png>
+] [11 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/response.png>
+]
+<surface.png, id=454, 418.56375pt x 396.7322pt>
 File: surface.png Graphic file (type png)
  <use surface.png>
-Package pdftex.def Info: surface.png used on input line 127.
+Package pdftex.def Info: surface.png used on input line 194.
 (pdftex.def)             Requested size: 418.56271pt x 396.73122pt.
 
-Overfull \hbox (1.72983pt too wide) in paragraph at lines 127--128
+Overfull \hbox (1.72983pt too wide) in paragraph at lines 194--195
  [][] 
  []
 
-[5] [6 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/surface.png>
-]
-Overfull \hbox (9.9019pt too wide) in paragraph at lines 163--165
+[12] [13 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/surface.pn
+g>]
+Overfull \hbox (9.9019pt too wide) in paragraph at lines 230--232
 \C70/rm/m/n/12.05/51 v \C70/rm/m/n/12.05/4e -$\OML/cmm/m/it/12.05 ![]$\C70/rm/m
 /n/12.05/4e : \C70/rm/m/n/12.05/81 T � \C70/rm/m/n/12.05/76 � \C70/rm/m/n/12.05
 /98 � \C70/rm/m/n/12.05/73 �|\C70/rm/m/n/12.05/ff | $\OML/cmm/m/it/12.05 s$\C7
@@ -1156,25 +1177,19 @@ rm/m/n/12.05/8f � \C70/rm/m/n/12.05/51 e I \C70/rm/m/n/12.05/98 � \C70/rm/m/n/1
 OML/cmm/m/it/12.05 ; []e$\C70/rm/m/n/12.05/52 
  []
 
-[7] [8] <mode.png, id=355, 232.61906pt x 333.49594pt>
-File: mode.png Graphic file (type png)
- <use mode.png>
-Package pdftex.def Info: mode.png used on input line 213.
-(pdftex.def)             Requested size: 232.61848pt x 333.49512pt.
- [9]
-[10 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/mode.png>]
-<disp_ed2_ai.png, id=390, 359.84438pt x 543.53062pt>
+[14] [15] [16] <disp_ed2_ai.png, id=541, 359.84438pt x 543.53062pt>
 File: disp_ed2_ai.png Graphic file (type png)
- <use disp_ed2_ai.png>
-Package pdftex.def Info: disp_ed2_ai.png used on input line 242.
+
+<use disp_ed2_ai.png>
+Package pdftex.def Info: disp_ed2_ai.png used on input line 304.
 (pdftex.def)             Requested size: 312.9803pt x 472.78488pt.
 
 
-LaTeX Warning: Float too large for page by 6.30792pt on input line 250.
+LaTeX Warning: Float too large for page by 6.30792pt on input line 312.
 
-[11] [12 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/disp_ed2_a
+[17] [18 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/disp_ed2_a
 i.png>]
-Overfull \hbox (14.615pt too wide) in paragraph at lines 269--271
+Overfull \hbox (14.615pt too wide) in paragraph at lines 331--333
 $\OML/cmm/m/it/12.05 []$\C70/rm/m/n/12.05/4e :\OT1/cmr/m/n/12.05 Kerr\C70/rm/m
 /n/12.05/97 ^ \C70/rm/m/n/12.05/7e � \C70/rm/m/n/12.05/60 ' \C70/rm/m/n/12.05/7
 c � \C70/rm/m/n/12.05/65 p|\C70/rm/m/n/12.05/ff | $\OML/cmm/m/it/12.05 n[]$\C7
@@ -1186,46 +1201,49 @@ m/m/n/12.05/6b � \C70/rm/m/n/12.05/76 � \C70/rm/m/n/12.05/62 � \C70/rm/m/n/12.0
 /cmm/m/it/12.05 @n=@T\OT1/cmr/m/n/12.05 )[]$\C70/rm/m/n/12.05/66 /
  []
 
-<try_ed2.png, id=409, 362.10281pt x 574.39594pt>
+<try_ed2.png, id=559, 362.10281pt x 574.39594pt>
 File: try_ed2.png Graphic file (type png)
  <use try_ed2.png>
-Package pdftex.def Info: try_ed2.png used on input line 276.
+Package pdftex.def Info: try_ed2.png used on input line 338.
 (pdftex.def)             Requested size: 369.88582pt x 586.75255pt.
 File: try_ed2.png Graphic file (type png)
 
 <use try_ed2.png>
-Package pdftex.def Info: try_ed2.png used on input line 281.
+Package pdftex.def Info: try_ed2.png used on input line 343.
 (pdftex.def)             Requested size: 0.0pt x 0.0pt.
- [13] [14 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/try_ed2.p
-ng>] <P2change_ed2_ai.png, id=436, 355.3275pt x 459.96844pt>
+ [19] [20 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/try_ed2.p
+ng>] <P2change_ed2_ai.png, id=585, 355.3275pt x 459.96844pt>
 File: P2change_ed2_ai.png Graphic file (type png)
 
 <use P2change_ed2_ai.png>
-Package pdftex.def Info: P2change_ed2_ai.png used on input line 294.
+Package pdftex.def Info: P2change_ed2_ai.png used on input line 356.
 (pdftex.def)             Requested size: 312.9803pt x 405.1595pt.
- [15]
-<P2change_ed2_aicd.png, id=444, 322.95656pt x 508.14844pt>
+
+<P2change_ed2_aicd.png, id=586, 322.95656pt x 508.14844pt>
 File: P2change_ed2_aicd.png Graphic file (type png)
 
 <use P2change_ed2_aicd.png>
-Package pdftex.def Info: P2change_ed2_aicd.png used on input line 301.
+Package pdftex.def Info: P2change_ed2_aicd.png used on input line 363.
 (pdftex.def)             Requested size: 312.9803pt x 492.47693pt.
 
 
-LaTeX Warning: Float too large for page by 7.21494pt on input line 305.
+LaTeX Warning: Float too large for page by 7.21494pt on input line 367.
 
-<ExpSetup.png, id=448, 371.4678pt x 123.8226pt>
+[21] [22 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/P2change_e
+d2_ai.png>] [23 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/P2c
+hange_ed2_aicd.png>] <ExpSetup.png, id=605, 371.4678pt x 123.8226pt>
 File: ExpSetup.png Graphic file (type png)
- <use ExpSetup.png>
-Package pdftex.def Info: ExpSetup.png used on input line 321.
+
+<use ExpSetup.png>
+Package pdftex.def Info: ExpSetup.png used on input line 385.
 (pdftex.def)             Requested size: 455.24408pt x 151.75862pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 321--322
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 385--386
  [][] 
  []
 
 
-Overfull \hbox (0.40509pt too wide) in paragraph at lines 328--329
+Overfull \hbox (0.40509pt too wide) in paragraph at lines 392--393
 []\C70/rm/m/n/12.05/4e � \C70/rm/m/n/12.05/6b ! \C70/rm/m/n/12.05/8c  \C70/rm/
 m/n/12.05/6c � \C70/rm/m/n/12.05/8f � \C70/rm/m/n/12.05/4e   \C70/rm/m/n/12.05/
 8d � \C70/rm/m/n/12.05/51 I \C70/rm/m/n/12.05/4f � \C70/rm/m/n/12.05/53 � \C70/
@@ -1237,151 +1255,157 @@ n/12.05/8f � \C70/rm/m/n/12.05/88 L \C70/rm/m/n/12.05/65 6 \C70/rm/m/n/12.05/96
 m/m/n/12.05/51 e\OT1/cmr/m/n/12.05 EMCCD
  []
 
-[16] [17 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/P2change_e
-d2_ai.png>] [18 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/P2c
-hange_ed2_aicd.png>] <Setup_makingSphere.jpg, id=469, 4047.12pt x 3035.34pt>
+<Setup_makingSphere.jpg, id=607, 4047.12pt x 3035.34pt>
 File: Setup_makingSphere.jpg Graphic file (type jpg)
 
 <use Setup_makingSphere.jpg>
-Package pdftex.def Info: Setup_makingSphere.jpg used on input line 335.
+Package pdftex.def Info: Setup_makingSphere.jpg used on input line 399.
 (pdftex.def)             Requested size: 455.24408pt x 341.39154pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 335--336
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 399--400
  [][] 
  []
 
-[19 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/ExpSetup.png>]
-[20 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Setup_makingSph
-ere.jpg>] <Setup_pullingFiber.jpg, id=485, 4047.12pt x 3035.34pt>
+[24] [25 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/ExpSetup.p
+ng>] [26 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Setup_maki
+ngSphere.jpg>] <Setup_pullingFiber.jpg, id=627, 4047.12pt x 3035.34pt>
 File: Setup_pullingFiber.jpg Graphic file (type jpg)
 
 <use Setup_pullingFiber.jpg>
-Package pdftex.def Info: Setup_pullingFiber.jpg used on input line 355.
+Package pdftex.def Info: Setup_pullingFiber.jpg used on input line 419.
 (pdftex.def)             Requested size: 455.24408pt x 341.39154pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 355--356
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 419--420
  [][] 
  []
 
-[21] [22 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Setup_pull
-ingFiber.jpg>] <DualFiber.jpg, id=498, 2818.53pt x 2047.65pt>
+[27] [28 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Setup_pull
+ingFiber.jpg>] <DualFiber.jpg, id=639, 2818.53pt x 2047.65pt>
 File: DualFiber.jpg Graphic file (type jpg)
 
 <use DualFiber.jpg>
-Package pdftex.def Info: DualFiber.jpg used on input line 368.
+Package pdftex.def Info: DualFiber.jpg used on input line 432.
 (pdftex.def)             Requested size: 455.24408pt x 330.7239pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 368--369
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 432--433
  [][] 
  []
 
-<Fiber_sphere.jpg, id=500, 2746.26pt x 1999.47pt>
+<Fiber_sphere.jpg, id=641, 2746.26pt x 1999.47pt>
 File: Fiber_sphere.jpg Graphic file (type jpg)
  <use Fiber_sphere.jpg>
-Package pdftex.def Info: Fiber_sphere.jpg used on input line 377.
+Package pdftex.def Info: Fiber_sphere.jpg used on input line 441.
 (pdftex.def)             Requested size: 455.24408pt x 331.42378pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 377--378
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 441--442
  [][] 
  []
 
-<coupling.jpg, id=502, 3099.58pt x 2336.73pt>
+<coupling.jpg, id=643, 3099.58pt x 2336.73pt>
 File: coupling.jpg Graphic file (type jpg)
  <use coupling.jpg>
-Package pdftex.def Info: coupling.jpg used on input line 386.
+Package pdftex.def Info: coupling.jpg used on input line 450.
 (pdftex.def)             Requested size: 455.24408pt x 343.18498pt.
 
-Overfull \hbox (38.4112pt too wide) in paragraph at lines 386--387
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 450--451
  [][] 
  []
 
-[23 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/DualFiber.jpg>]
-[24 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Fiber_sphere.jp
-g>] [25 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/coupling.jp
-g>] <FigSHspectrum.png, id=522, 844.8363pt x 1208.3544pt>
+[29 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/DualFiber.jpg>]
+[30 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Fiber_sphere.jp
+g>] [31 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/coupling.jp
+g>] [32] <FigSHspectrum.png, id=666, 844.8363pt x 1208.3544pt>
 File: FigSHspectrum.png Graphic file (type png)
 
 <use FigSHspectrum.png>
-Package pdftex.def Info: FigSHspectrum.png used on input line 402.
+Package pdftex.def Info: FigSHspectrum.png used on input line 468.
 (pdftex.def)             Requested size: 398.33858pt x 569.73358pt.
 
 
-LaTeX Warning: Float too large for page by 26.9664pt on input line 405.
+LaTeX Warning: Float too large for page by 26.9664pt on input line 471.
 
-<Qfit_w.png, id=527, 421.575pt x 633.86812pt>
+<Qfit_w.png, id=671, 421.575pt x 633.86812pt>
 File: Qfit_w.png Graphic file (type png)
  <use Qfit_w.png>
-Package pdftex.def Info: Qfit_w.png used on input line 416.
+Package pdftex.def Info: Qfit_w.png used on input line 482.
 (pdftex.def)             Requested size: 341.43306pt x 513.38202pt.
 
 
-LaTeX Warning: Reference `cao2017experimental' on page 26 undefined on input li
-ne 421.
+LaTeX Warning: Reference `cao2017experimental' on page 33 undefined on input li
+ne 487.
 
-[26] [27 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/FigSHspect
-rum.png>] [28 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Qfit_
-w.png>] <Figf1_f2.png, id=549, 844.8363pt x 597.432pt>
+[33] [34 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/FigSHspect
+rum.png>] [35 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Qfit_
+w.png>] <Figf1_f2.png, id=691, 844.8363pt x 597.432pt>
 File: Figf1_f2.png Graphic file (type png)
  <use Figf1_f2.png>
-Package pdftex.def Info: Figf1_f2.png used on input line 429.
+Package pdftex.def Info: Figf1_f2.png used on input line 495.
 (pdftex.def)             Requested size: 398.33858pt x 281.68645pt.
 
-<TransSHpower.png, id=550, 561.59813pt x 791.95876pt>
+<TransSHpower.png, id=692, 561.59813pt x 791.95876pt>
 File: TransSHpower.png Graphic file (type png)
  <use TransSHpower.png>
-Package pdftex.def Info: TransSHpower.png used on input line 440.
+Package pdftex.def Info: TransSHpower.png used on input line 506.
 (pdftex.def)             Requested size: 398.33858pt x 561.7267pt.
 
 
-LaTeX Warning: Float too large for page by 37.79274pt on input line 443.
+LaTeX Warning: Float too large for page by 37.79274pt on input line 509.
 
-[29] [30 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Figf1_f2.p
-ng>] [31 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/TransSHpow
-er.png>] <FigSHexamples.png, id=577, 844.1136pt x 593.5776pt>
+<FigSHpower-inputPw.png, id=697, 844.8363pt x 597.432pt>
+File: FigSHpower-inputPw.png Graphic file (type png)
+
+<use FigSHpower-inputPw.png>
+Package pdftex.def Info: FigSHpower-inputPw.png used on input line 522.
+(pdftex.def)             Requested size: 398.33858pt x 281.68645pt.
+ [36] [37 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Figf1_f2.
+png>] [38 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/TransSHpo
+wer.png>] [39 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/FigSH
+power-inputPw.png>]
+<FigSHexamples.png, id=729, 844.1136pt x 593.5776pt>
 File: FigSHexamples.png Graphic file (type png)
-
-<use FigSHexamples.png>
-Package pdftex.def Info: FigSHexamples.png used on input line 459.
+ <use FigSHexamples.png>
+Package pdftex.def Info: FigSHexamples.png used on input line 534.
 (pdftex.def)             Requested size: 398.33858pt x 280.11366pt.
- [32 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/FigSHexamples.
-png>]
-<PolarizationHistogram.png, id=588, 844.8363pt x 597.432pt>
+
+[40 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/FigSHexamples.p
+ng>] <PolarizationHistogram.png, id=739, 844.8363pt x 597.432pt>
 File: PolarizationHistogram.png Graphic file (type png)
 
 <use PolarizationHistogram.png>
-Package pdftex.def Info: PolarizationHistogram.png used on input line 470.
+Package pdftex.def Info: PolarizationHistogram.png used on input line 545.
 (pdftex.def)             Requested size: 398.33858pt x 281.68645pt.
- [33 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/PolarizationHi
+ [41 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/PolarizationHi
 stogram.png>]
+<TM1zoomwarrow_1_9319.png, id=749, 1683.28876pt x 794.97pt>
+File: TM1zoomwarrow_1_9319.png Graphic file (type png)
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 497.
+<use TM1zoomwarrow_1_9319.png>
+Package pdftex.def Info: TM1zoomwarrow_1_9319.png used on input line 556.
+(pdftex.def)             Requested size: 398.33858pt x 188.1159pt.
+ [42]
+<FigRamanSF.png, id=764, 844.1136pt x 1154.3928pt>
+File: FigRamanSF.png Graphic file (type png)
+ <use FigRamanSF.png>
+Package pdftex.def Info: FigRamanSF.png used on input line 576.
+(pdftex.def)             Requested size: 398.33858pt x 544.76653pt.
 
-<Spectrum.png, id=595, 1068.99374pt x 816.04875pt>
-File: Spectrum.png Graphic file (type png)
- <use Spectrum.png>
-Package pdftex.def Info: Spectrum.png used on input line 501.
-(pdftex.def)             Requested size: 398.33858pt x 304.0875pt.
 
-<SimpPWDP.png, id=597, 504.38437pt x 411.03563pt>
-File: SimpPWDP.png Graphic file (type png)
- <use SimpPWDP.png>
-Package pdftex.def Info: SimpPWDP.png used on input line 512.
-(pdftex.def)             Requested size: 398.33858pt x 324.6205pt.
- [34]
-[35 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Spectrum.png>]
-[36 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/SimpPWDP.png>]
+LaTeX Warning: Float too large for page by 20.71208pt on input line 579.
+
+[43 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/TM1zoomwarrow_1
+_9319.png>] [44 <C:/微云同步盘/2984420770/zxy/curr_sem/毕设/Work/TeX/Fig
+RamanSF.png>] [45] [46]
 (C:\微云同步盘\2984420770\zxy\curr_sem\毕设\Work\TeX\挑战杯正式文�
-��.bbl [37]) [38]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 526.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 526.
+��.bbl [47] [48] [49] [50]) [51]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 601.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 601.
 
 (C:\微云同步盘\2984420770\zxy\curr_sem\毕设\Work\TeX\挑战杯正式文�
 ��.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 526.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 526.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 601.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 601.
 Package rerunfilecheck Info: File `挑战杯正式文档.out' has not changed.
-(rerunfilecheck)             Checksum: 0AECABDDE1604E1877387CF422520B59;2464.
+(rerunfilecheck)             Checksum: 24D797C4A0ECE303D8863D78CC65D9F1;2617.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1395,33 +1419,33 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16989 strings out of 495354
- 253382 string characters out of 3183859
- 337720 words of memory out of 3000000
- 19402 multiletter control sequences out of 15000+200000
- 63392 words of font info for 217 fonts, out of 3000000 for 9000
+ 17364 strings out of 495354
+ 258725 string characters out of 3183859
+ 343412 words of memory out of 3000000
+ 19715 multiletter control sequences out of 15000+200000
+ 63091 words of font info for 216 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,10n,33p,1523b,1778s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,10n,33p,1944b,1901s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
 imhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
 /Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:
-/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei
+/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei
 .ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
-s/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
-onts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/W
+s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Wind
+ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
+<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
+sun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
 indows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.t
-tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/
-simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Window
-s/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
-:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsu
-n.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fon
-ts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Win
+tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/
+simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Window
+s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
+:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsu
+n.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
+ts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Win
 dows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc
-><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/si
-msun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/
+><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
+mhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/
 Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/
 Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.
 ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts
@@ -1434,30 +1458,32 @@ ndows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.tt
 c><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/s
 imsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows
 /Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:
-/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei
-.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
-s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/F
-onts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/W
+/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun
+.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Font
+s/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wind
+ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc>
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
+hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
 indows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.t
 tc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/
 simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Window
 s/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C
-:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/CTEX/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmbx8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTEX
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/CTEX/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/CTEX/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on 挑战杯正式文档.pdf (38 pages, 9060622 bytes).
+:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsu
+n.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fon
+ts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb>
+<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmti12.pfb>
+Output written on 挑战杯正式文档.pdf (51 pages, 9997677 bytes).
 PDF statistics:
- 1055 PDF objects out of 1200 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
- 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1265 PDF objects out of 1440 (max. 8388607)
+ 190 named destinations out of 1000 (max. 500000)
+ 595 words of extra memory for PDF output out of 10000 (max. 10000000)
 
